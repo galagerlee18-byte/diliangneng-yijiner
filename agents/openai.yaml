@@ -1,0 +1,3 @@
+interface:
+  display_name: "低量能一进二模型"
+  short_description: "低量能一进二选股 + 同花顺一键导入"
